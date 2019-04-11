@@ -1,0 +1,2 @@
+# ejemploqtgrafico2
+ejemplo2qtgraficocorreccionerror
